@@ -1,0 +1,10 @@
+{
+    "nodes": [
+        {
+            "name": "LinuxNode",
+            "ostype": "Ubuntu_64",
+            "basefolder": "RedTeamLab",
+            "image": "iso/noble-mini-iso-amd64.iso"
+        } 
+    ]
+}
